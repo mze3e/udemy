@@ -1,3 +1,4 @@
+require 'scraperwiki'
 @SOURCE = 'Udemy'
 @URL = "http://www.udemy.com"
 @ID = 0
